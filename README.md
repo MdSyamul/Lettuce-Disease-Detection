@@ -1,7 +1,7 @@
 
 # Lettuce Disease Classification
 
-Welcome to the **Lettuce Disease Classification** repository! This project focuses on training convolutional neural network to accurately classify diseases affecting lettuce plants. Early detection and classification are crucial for preventing the spread of diseases and ensuring healthy crop yields.
+Welcome to the **Lettuce Disease Classification** repository! This project focuses on training a convolutional neural network to accurately classify diseases affecting lettuce plants. Early detection and classification are crucial for preventing the spread of diseases and ensuring healthy crop yields.
 
 ## Status
 
