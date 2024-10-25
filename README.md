@@ -54,7 +54,7 @@ The following plots show the training and validation loss over 120 epochs, as we
 ### Inference Examples
 Below are sample predictions made by the model on lettuce disease images. The bounding boxes highlight the areas identified as disease-affected.
 
-![Sample Predictions](./train_batch5040.jpg)
+![Sample Predictions](./train_batch5042.jpg)
 
 These results demonstrate the model's ability to detect and classify multiple disease instances within a single image, aiding in early detection for agricultural applications.
 
