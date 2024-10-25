@@ -1,10 +1,6 @@
 
-# Lettuce Disease Detection
-
-Welcome to the **Lettuce Disease Detection** repository! This project focuses on training Yolo11 model to accurately classify diseases affecting lettuce plants. Early detection and classification are crucial for preventing the spread of diseases and ensuring healthy crop yields.
-
-## Project Overview
-The Lettuce Disease Detection project is a part of our indoor farming project, aims to provide an automated solution for disease identification, helping in timely intervention and treatment.
+# Project Overview
+Welcome to the Lettuce Disease Detection repository! The Lettuce Disease Detection project is a part of our indoor farming project, aims to provide an automated solution for disease identification, helping in timely intervention and treatment.This project focuses on training the YOLOv11 model to accurately classify diseases affecting lettuce plants. The model is trained to detect and classify seven conditions: 'Bacterial,' 'Downy Mildew on Lettuce,' 'Powdery Mildew on Lettuce,' 'Septoria Blight on Lettuce,' 'Viral,' 'Wilt and Leaf Blight on Lettuce,' and 'Healthy.' Early detection and classification are essential for preventing disease spread and ensuring healthy crop yields."
 
 ## Status
 ⚠️ **The code and dataset provided are for demonstration purposes only.**
@@ -67,12 +63,11 @@ By reviewing these results, improvements in both accuracy and precision can be i
 
 ## Contributing
 Contributions to the Lettuce Disease Detection project are welcome. If you have any suggestions or improvements, please create a pull request or open an issue.
-## Funding and Acknowledgments
 
+## Funding and Acknowledgments
 This project is funded by the **Research Center of Shahjalal University of Science and Technology**. We express our sincere gratitude for their support and resources, which have been instrumental in advancing this research.
 
 ## Contact
-
 For questions, collaborations, or further information, please contact:
 
 - **Project Lead**: Md. Syamul Bashar
@@ -80,7 +75,6 @@ For questions, collaborations, or further information, please contact:
 - **Institution**: Department of Mechanical Engineering, Shahjalal University of Science and Technology
 
 ## License
-
 This project will be licensed under the [MIT License](LICENSE) upon release.
 
 ---
