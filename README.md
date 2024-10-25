@@ -1,14 +1,33 @@
 
-# Lettuce Disease Classification
+# Lettuce Disease Detection
 
-Welcome to the **Lettuce Disease Classification** repository! This project focuses on training a convolutional neural network to accurately classify diseases affecting lettuce plants. Early detection and classification are crucial for preventing the spread of diseases and ensuring healthy crop yields.
+Welcome to the **Lettuce Disease Detection** repository! This project focuses on training Yolo11 model to accurately classify diseases affecting lettuce plants. Early detection and classification are crucial for preventing the spread of diseases and ensuring healthy crop yields.
 
-## Status
+## Project Overview
+The Lettuce Disease Detection project is a part of our indoor farming project, aims to provide an automated solution for disease identification, helping in timely intervention and treatment.
 
-⚠️ **The code and dataset are currently not available.**
+## Getting Started
+To run the training script, follow these steps:
 
-We are in the final stages of an ongoing funded project by the Research Center of Shahjalal University of Science and Technology. The code and dataset will be uploaded soon after the project submission.
+1. **Clone the repository**:
 
+    ```bash
+    git clone https://github.com/your-username/lettuce-disease-detection.git
+    ```
+
+2. **Install dependencies**: Ensure you have the required dependencies installed. You can use a virtual environment to manage them:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the training script**: Open the `train.ipynb` notebook in Jupyter and run the cells to start the training process.
+
+## Results
+The training process will generate logs and model checkpoints, which can be used to evaluate the model's performance and make further improvements.
+
+## Contributing
+Contributions to the Lettuce Disease Detection project are welcome. If you have any suggestions or improvements, please create a pull request or open an issue.
 ## Funding and Acknowledgments
 
 This project is funded by the **Research Center of Shahjalal University of Science and Technology**. We express our sincere gratitude for their support and resources, which have been instrumental in advancing this research.
