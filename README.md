@@ -9,19 +9,33 @@ The Lettuce Disease Detection project is a part of our indoor farming project, a
 ## Getting Started
 To run the training script, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/lettuce-disease-detection.git
+    git clone https://github.com/MdSyamul/lettuce-disease-detection.git
     ```
-
-2. **Install dependencies**: Ensure you have the required dependencies installed. You can use a virtual environment to manage them:
+    
+2. **Set Up a Virtual Environment**: It’s recommended to use Python 3.12.3 for compatibility.
 
     ```bash
-    pip install -r requirements.txt
+    python3 -m venv lettuce_env
+    source lettuce_env/bin/activate  # On Windows use: lettuce_env\Scripts\activate
     ```
 
-3. **Run the training script**: Open the `train.ipynb` notebook in Jupyter and run the cells to start the training process.
+3. **Install PyTorch**: Ensure you install a version of PyTorch compatible with your CUDA version. Follow the instructions at [PyTorch's official installation guide](https://pytorch.org/get-started/locally/) to install the correct version.
+
+4. **Install Ultralytics**: This package includes necessary tools for training.
+
+    ```bash
+    pip install ultralytics
+    ```
+
+5. **Run the Training Script**: Open the `train.ipynb` notebook in Jupyter and run the cells to begin training.
+
+    ```bash
+    jupyter notebook train.ipynb
+    ```
+
 
 ## Results
 The training process will generate logs and model checkpoints, which can be used to evaluate the model's performance and make further improvements.
