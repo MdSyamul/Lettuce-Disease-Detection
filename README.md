@@ -60,7 +60,6 @@ These results demonstrate the model's ability to detect and classify multiple di
 
 By reviewing these results, improvements in both accuracy and precision can be identified for future iterations.
 
-
 ## Contributing
 Contributions to the Lettuce Disease Detection project are welcome. If you have any suggestions or improvements, please create a pull request or open an issue.
 
