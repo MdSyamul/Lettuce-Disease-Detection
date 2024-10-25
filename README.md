@@ -1,10 +1,8 @@
+# Lettuce Disease Detection
+Welcome to the Lettuce Disease Detection repository! The Lettuce Disease Detection project is a part of our indoor farming project, aims to provide an automated solution for disease identification, helping in timely intervention and treatment.
 
 # Project Overview
-Welcome to the Lettuce Disease Detection repository! The Lettuce Disease Detection project is a part of our indoor farming project, aims to provide an automated solution for disease identification, helping in timely intervention and treatment.This project focuses on training the YOLOv11 model to accurately classify diseases affecting lettuce plants. The model is trained to detect and classify seven conditions: 'Bacterial,' 'Downy Mildew on Lettuce,' 'Powdery Mildew on Lettuce,' 'Septoria Blight on Lettuce,' 'Viral,' 'Wilt and Leaf Blight on Lettuce,' and 'Healthy.' Early detection and classification are essential for preventing disease spread and ensuring healthy crop yields."
-
-## Status
-⚠️ **The code and dataset provided are for demonstration purposes only.**
-We are in the final stages of an ongoing funded project by the Research Center of Shahjalal University of Science and Technology. The code and dataset will be uploaded soon after the project submission.
+This project focuses on training the YOLOv11 model to accurately classify diseases affecting lettuce plants. The model is trained to detect and classify seven conditions: 'Bacterial,' 'Downy Mildew on Lettuce,' 'Powdery Mildew on Lettuce,' 'Septoria Blight on Lettuce,' 'Viral,' 'Wilt and Leaf Blight on Lettuce,' and 'Healthy.' Early detection and classification are essential for preventing disease spread and ensuring healthy crop yields."
 
 ## Getting Started
 To run the training script, follow these steps:
